@@ -1,6 +1,6 @@
 # tabbar
 
-基于vue的TabBar 附带插槽，高封装Build Setup
+基于vue的TabBar 附带插槽，高封装
 
 author：Oliver-xuan
 
