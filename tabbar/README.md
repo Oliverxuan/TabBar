@@ -1,8 +1,10 @@
 # tabbar
 
-> A Vue.js project
+基于vue的TabBar 附带插槽，高封装Build Setup
 
-## Build Setup
+author：Oliver-xuan
+
+date：2021-6-15 20:11
 
 ``` bash
 # install dependencies
